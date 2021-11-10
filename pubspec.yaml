@@ -1,5 +1,5 @@
 name: PMovies
-description: A demo mini-app for Data Prime.
+description: A demo mini-app for fetching popular movies from an API.
 
 publish_to: "none"
 
